@@ -12,5 +12,7 @@
             "name": "liuhao"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-sockets": "*"
+    }
 }
