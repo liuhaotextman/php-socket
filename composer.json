@@ -1,0 +1,16 @@
+{
+    "name": "root/php-socket",
+    "description": "php socket framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Root\\PhpSocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuhao"
+        }
+    ],
+    "require": {}
+}
