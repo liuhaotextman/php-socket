@@ -16,6 +16,8 @@
         "ext-sockets": "*",
         "ext-mbstring": "*",
         "ext-pcntl": "*",
-        "ext-posix": "*"
+        "ext-posix": "*",
+        "ext-sysvmsg": "*",
+        "ext-sysvsem": "*"
     }
 }
